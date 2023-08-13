@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "537979510954",
+    "project_id": "ejada-smslistener-f4c10",
+    "storage_bucket": "ejada-smslistener-f4c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537979510954:android:5af68933152e7f6862f0d3",
+        "android_client_info": {
+          "package_name": "com.ejadasmslistenerr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537979510954-anlb3lhoatordl5h2jp3cretumnug5en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ejadasmslistenerr",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "537979510954-n2oc2egndm6k8t5nvtic7qlmhfaf6os9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSnFUL38vOVXvwUAh-mEMrTKk_uJznxh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537979510954-n2oc2egndm6k8t5nvtic7qlmhfaf6os9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
